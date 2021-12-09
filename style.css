@@ -299,8 +299,6 @@ a:hover {
 .navbar-brand img {
     margin: 0 5px 0 0;
     display: inline;
-    height: 40px;
-    width: 215px;
 }
 
 .navbar-brand img[src$=svg] {
